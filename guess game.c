@@ -17,7 +17,6 @@ int main() {
         char userName[30];
 
         int hiddenNumber = rand() % 21; //making hidden number random
-        printf("%d\n", hiddenNumber);
 
         int guessedNumber;
 
