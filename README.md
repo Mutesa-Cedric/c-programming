@@ -1,2 +1,2 @@
-# c programms
-this is a folder containing c programs I wrote while learning c.
+# c-programming
+This is a repo I use for c courses, practice and even exams.
