@@ -1,2 +1,2 @@
-# c-game
-this is a game made in c programming language. rules and regulations are followed
+# c programms
+this is a folder containing c programs I wrote while learning c.
